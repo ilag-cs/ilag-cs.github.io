@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jemoji]
+
+# Setup
+title:            Lucas Lehnert
+tagline:          "Personal Website"
+description:      "Assistant Professor<br>Department of Computer Science<br>University of Saskatchewan"
+url:              http://lucaslehnert.github.io
+baseurl:          /
+
+paginate:         3
+
+email: lucas.lehnert@usask.ca
+linkedin: https://www.linkedin.com/in/lucaslehnert
+github: https://github.com/lucaslehnert
