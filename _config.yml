@@ -9,14 +9,12 @@ highlighter:      rouge
 plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jemoji]
 
 # Setup
-title:            Lucas Lehnert
-tagline:          "Personal Website"
-description:      "Assistant Professor<br>Department of Computer Science<br>University of Saskatchewan"
-url:              http://lucaslehnert.github.io
+title:            Intelligent Learning Algorithms Group
+tagline:          "ILAG Website"
+description:      "Intelligent Learning Algorithms Group Website"
+url:              https://ilag-cs.github.io/
 baseurl:          /
 
 paginate:         3
 
 email: lucas.lehnert@usask.ca
-linkedin: https://www.linkedin.com/in/lucaslehnert
-github: https://github.com/lucaslehnert
