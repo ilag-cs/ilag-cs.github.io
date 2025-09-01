@@ -9,10 +9,10 @@ highlighter:      rouge
 plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jemoji]
 
 # Setup
-title:            Intelligent Learning Algorithms Group
-tagline:          "ILAG Website"
-description:      "Intelligent Learning Algorithms Group Website"
-url:              https://ilag-cs.github.io/
+title:            Laboratory of Intelligent Learning Agents and Algorithms
+tagline:          "LILAA Website"
+description:      "Laboratory of Intelligent Learning Agents and Algorithms Website"
+url:              https://lilaa-rl.github.io/
 baseurl:          /
 
 paginate:         3
